@@ -28,6 +28,16 @@
       - list functions
       - **List comprehension**
   - 3: [Video](https://youtu.be/I7FSYogu_KA)
+    - Exception
+    - Import Modules (math, statistics, random, os, glob)
+    - Classes
+    - Numpy
+      - Numpy array speed
+      - Numpy array attributes
+      - Np array structure
+      - Create Array (array, ones, astype, arange, random.randint, rand, randn) 
   - 4: [Video](https://youtu.be/8ID-n3iigqA)
-  
+    - Numpy:
+      - Array indexing
 - Week 2 Lecture: [Video](https://diveintocode.slack.com/files/U0CGPM9T2/F01SDPRU072/mep_day2_mathematics_for_machine_learning_____en.pdf), [Video](https://youtu.be/wwYWTijOTx4)
+  - Solution for assignments of week 1 + extra assignment (dart)
