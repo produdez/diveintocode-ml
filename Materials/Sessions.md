@@ -35,7 +35,7 @@
       - Numpy array speed
       - Numpy array attributes
       - Np array structure
-      - Create Array (array, ones, astype, arange, random.randint, rand, randn) 
+      - Create Array (array, ones, astype, arange, random.randint, rand, randn)
   - 4: [Video](https://youtu.be/8ID-n3iigqA)
     - Numpy:
       - Array indexing
