@@ -39,5 +39,40 @@
   - 4: [Video](https://youtu.be/8ID-n3iigqA)
     - Numpy:
       - Array indexing
+  - 5: [Video](https://youtu.be/U5zu9JVURAo)
+    - Numpy:
+      - Broadcasting Rule
+      - Aggregation function with and without axis specification
+      - Boolean Operation
+      - Matrix product with (@)
+      - Useful funcs (arrange, linspace, ones,zeros,empty,identity, eye - same as iden but non-square matrix and has offset)
+      - Important methods: reshape, ravel, squeeze, concatenate axis 0 = vstack, axis 1 = hstack
+      - Sort: sort, argmax, argmin along axis
+
 - Week 2 Lecture: [Video](https://diveintocode.slack.com/files/U0CGPM9T2/F01SDPRU072/mep_day2_mathematics_for_machine_learning_____en.pdf), [Video](https://youtu.be/wwYWTijOTx4)
   - Solution for assignments of week 1 + extra assignment (dart)
+- Week 2 Mentoring Sessions:
+  - 6: [Video](https://youtu.be/HS4f02V9J9I)
+    - Pandas Introduction
+    - Pandas Series: can change index values (name,index, dtype), create from dict, list,..
+    - indexing series using loc(key) and iloc(numeric idx)
+    - Slicing also include the last index (inclusive)
+    - can index using boolean array: series[[True,False,...]]
+    - Use drop to remove (inplace = True to not create copy)
+
+    - Pandas Data Frame: Table
+    - Data Frame attribute: dtypes,index, column, size, shape
+  - 7: [Video](https://www.youtube.com/watch?v=ao7lYxZjEps)
+    - Continue Pandas Data Frame
+      - Import Data, view head, tail
+      - info, describe, isnull
+      - value_count (normalize = true to show proportion)
+      - plotting inclueded in pandas
+      - Group_by function !
+    - Cleaning Data:
+      - Dropping Missing Value with dropna, fillna (fillna can use method (forwardfill, backwardfill (ffill,bfill)))
+  - 8: [Video](https://youtu.be/TUnKtqp6G_4)
+    - Example of using Pandas Framework on Titanic Dataset
+  - 9: [Video]
+  - 10: [Video]
+- Week 3 Lecture: [Video](https://youtu.be/TUnKtqp6G_4), [Slide](https://diveintocode.slack.com/files/U0CGPM9T2/F01SE7M4G5Q/mep_day3_mathematics_for_machine_learning_____en.pdf?origin_team=T0CGKPB7W&origin_channel=G01PS0G83QE)
