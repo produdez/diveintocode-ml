@@ -73,6 +73,8 @@
       - Dropping Missing Value with dropna, fillna (fillna can use method (forwardfill, backwardfill (ffill,bfill)))
   - 8: [Video](https://youtu.be/TUnKtqp6G_4)
     - Example of using Pandas Framework on Titanic Dataset
-  - 9: [Video]
-  - 10: [Video]
+  - 9: [Video](https://www.youtube.com/watch?v=Ht53kBVz4p0):
+    - Full Review of using pandas for analysis (overview)
 - Week 3 Lecture: [Video](https://youtu.be/TUnKtqp6G_4), [Slide](https://diveintocode.slack.com/files/U0CGPM9T2/F01SE7M4G5Q/mep_day3_mathematics_for_machine_learning_____en.pdf?origin_team=T0CGKPB7W&origin_channel=G01PS0G83QE)
+- Week 3 Mentoring Sessions:
+  - 10:
