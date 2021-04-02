@@ -77,4 +77,33 @@
     - Full Review of using pandas for analysis (overview)
 - Week 3 Lecture: [Video](https://youtu.be/TUnKtqp6G_4), [Slide](https://diveintocode.slack.com/files/U0CGPM9T2/F01SE7M4G5Q/mep_day3_mathematics_for_machine_learning_____en.pdf?origin_team=T0CGKPB7W&origin_channel=G01PS0G83QE)
 - Week 3 Mentoring Sessions:
-  - 10:
+  - 10: [Video](https://youtu.be/Dut1l_XXVjw)
+    - Review matplotlib plotting with example
+    - Advance Plotting with Iris Data:
+      - Color bar adding
+      - Subplot in for loop
+      - 3D plot by 3DAxis, just specify axis and project = '3d'
+      - histogram and hist2d
+      - U can use warnings.filterwarnings('ignore')
+    - **Seaborn:**
+      - Seaborn main frame: **sns.\<method_name\>(x,y,data,hue,size, style)**
+      - Hue: the categorical column (attribute) that's used for color coding
+      - pairplot
+      - catplot (category plot)
+      - boxplot vs violin plot
+      - distplot
+      - jointplot (joint distribution)
+      - heatmap
+  - 11: [Video](https://youtu.be/yQQzGpD2Ddo)
+    - Sklearn Introduction
+      - **Classifier Template**: Import, Create, Fit, Evaluate, Predict
+      - Classifier map for easy choosing
+    - Supervised Leaning Basics:
+      - Transform and choosing model is important
+      - Linear Regress
+      - KNN
+  - 12: [Video](https://youtu.be/XHDX4EOALFI)
+    - Sklearn Iris example
+    - train_test_split
+    - How to model select
+- Week 4 Lecture: [Video](???), [Slide](https://diveintocode.slack.com/files/UMVJ67RFF/F01TS5R9HA4/mep_day4_eda_en.pdf?origin_team=T0CGKPB7W&origin_channel=G01PS0G83QE)

@@ -1,0 +1,3 @@
+.*
+!.gitignore
+**/creditinfo_train.csv
