@@ -105,5 +105,6 @@
   - 12: [Video](https://youtu.be/XHDX4EOALFI)
     - Sklearn Iris example
     - train_test_split
-    - How to model select
+    - How to model select:
+      - Cross Validation when different set split have different score result for diff models
 - Week 4 Lecture: [Video](???), [Slide](https://diveintocode.slack.com/files/UMVJ67RFF/F01TS5R9HA4/mep_day4_eda_en.pdf?origin_team=T0CGKPB7W&origin_channel=G01PS0G83QE)
