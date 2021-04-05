@@ -107,4 +107,9 @@
     - train_test_split
     - How to model select:
       - Cross Validation when different set split have different score result for diff models
-- Week 4 Lecture: [Video](???), [Slide](https://diveintocode.slack.com/files/UMVJ67RFF/F01TS5R9HA4/mep_day4_eda_en.pdf?origin_team=T0CGKPB7W&origin_channel=G01PS0G83QE)
+- Week 4 Lecture: [Video](https://youtu.be/TzdOtNROMk0), [Slide](https://diveintocode.slack.com/files/UMVJ67RFF/F01TS5R9HA4/mep_day4_eda_en.pdf?origin_team=T0CGKPB7W&origin_channel=G01PS0G83QE)
+  - EDA (Explatory data analysis):
+    - Index, Dot, Box, Compare with histogram
+    - How to choose a plot
+    - EDA Example on datasets
+    - Pandas query
