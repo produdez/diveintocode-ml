@@ -1,3 +1,4 @@
 .*
 !.gitignore
-**/creditinfo_train.csv
+!.gitattributes
+# **/creditinfo_train.csv
