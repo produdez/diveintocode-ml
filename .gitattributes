@@ -1,3 +1,4 @@
 # *.csv filter=lfs diff=lfs merge=lfs -text
-.excel filter=lfs diff=lfs merge=lfs -text
-Data/Big/*.* filter=lfs diff=lfs merge=lfs -text
+# .excel filter=lfs diff=lfs merge=lfs -text
+# Data/Big/*.* filter=lfs diff=lfs merge=lfs -text
+Data/Big/* filter=lfs diff=lfs merge=lfs -text
