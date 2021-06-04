@@ -113,3 +113,44 @@
     - How to choose a plot
     - EDA Example on datasets
     - Pandas query
+
+- Week 4 Mentoring Sessions:
+  - 13 [Video](https://youtu.be/R5MgbPmIbFE)
+    - Cross Validation
+    - Validation Curve
+    - Overfiting
+    - Parameter Tuning using GridSearch
+    - Confusion matrix in classification
+  - 14 [Video](https://youtu.be/4yQdvgGO0kQ)
+    - Learning Curve
+    - Encoding
+      - LabelEnc (one col) = OrdinalEnc (many cols is fine)
+      - OneHotEnc (sparse matrix, compressed)
+  - 15 [Video](https://youtu.be/4fd_blmS4vE)
+  - 16 [Video](https://youtu.be/lybfQjBILIM)
+
+
+- Unordered Mentoring Sessions:
+  - 25 [Video](https://youtu.be/csBn_BuUmas):
+    - Machine learning flow
+    - Using heatmap to look at null values
+
+- SVM:
+  - 42 [Video](https://youtu.be/zy5KR5y0cpM)
+    - SVM introduction
+    - SVM Learning, threshold, sv selection
+  - 43 [Video](https://youtu.be/skzgNN192pM)
+    - SVM continue
+    - Prediction phase
+    - Demo with validation (recall, precision,..)
+    - Compare with sk (same results)
+  - 44 [Video](https://youtu.be/t6FCBErBpOE)
+    - SVM Wrapup (review)
+  - Lecture Day 12 [Video](https://youtu.be/QqKaOnahPmc), [Slide](./MEP_Day12_Scratch_SVM.pdf)
+    - Detailed theory of SVM
+    - Demo code 
+    - Slide
+
+    
+  
+  
