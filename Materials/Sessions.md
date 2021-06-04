@@ -151,6 +151,21 @@
     - Demo code 
     - Slide
 
+  -**TO REVIEW**
+  - Gradient Descent - LinearRegression
+    - 34 [Video](https://youtu.be/z4gCXrbA9dI)
+    - 35 [Video](https://youtu.be/rapBo_RCLjU)
+    - 36 [Video](https://youtu.be/bl0VHmIt6wk)
+    - Lecture Day 10 [Video](https://youtu.be/HHtUYQeol8I) [Slide](./MEP_Day10_Scratch_LinearRegressionEN.pdf)
+    - 37 [Video](https://youtu.be/oWBoNVyBEVk)
+  
+  - LogisticRegression
+    - 38 [Video](https://youtu.be/D03ZoRg8iV8)
+    - 39 [Video](https://youtu.be/Egf5yr1CYa0)
+    - 40 [Video](https://youtu.be/cM12wr2a2CM)
+    - 41 [Video](https://youtu.be/-IHKbCKfRew)
+    - Lecture Day 11 [Video](https://youtu.be/pjo0l89mNa8) [Slide](./MEP_Day11_Scratch_LogisticRegression.pdf)
+
     
   
   
