@@ -178,6 +178,14 @@
       - Slide
     - 45 [Video](https://youtu.be/9YtMh9MaCiI)
       - SVM Review
+  - Ensemble
+    - 55 [Video](https://youtu.be/fWDLeBYY0hk)
+      - Blending, Bagging
+    - 56 [Video](https://youtu.be/jNaLBVMARrs)
+      - Stacking (but a more simple version, not use depth!)
+    - Lecture 15 [Video](https://youtu.be/kddZVTU4Bxg) [Slide](./HCMUT_MEP_Day15_EnsembleLearning.pdf)
+      - Slide, Theory
+      - Important: Implementation of Stacking (depth recursive! hot!)
   
   -**TO REVIEW**
   - Also Logistic Regression
