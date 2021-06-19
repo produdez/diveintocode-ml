@@ -161,6 +161,10 @@
       - Deci region
     - 41 [Video](https://youtu.be/-IHKbCKfRew)
       - Final review
+    - Lecture Day 11 [Video](https://youtu.be/pjo0l89mNa8) [Slide](./MEP_Day11_Scratch_LogisticRegression.pdf)
+      - Full theory
+      - Logit
+      - Regularization
   - SVM:
     - 42 [Video](https://youtu.be/zy5KR5y0cpM)
       - SVM introduction
@@ -178,33 +182,48 @@
       - Slide
     - 45 [Video](https://youtu.be/9YtMh9MaCiI)
       - SVM Review
+  - Decision Tree
+    - 46 [Video](https://youtu.be/AE7Zla5-2SI%EF%B8%8F)
+      - Intro deci tree
+      - Gini impure, info gain (before - after)
+      - Gini implementation (very nice and simple)
+    - 47 [Video](https://youtu.be/t-JrWP0vK_g)
+      - Implement depth 1 deci tree (best split of all thresholds of all attributes)
+    - 48 [Video](https://youtu.be/t3JtPXfRuqU)
+      - review (depth 1)
+    - Lecture Day 13 [Video](https://youtu.be/jzdKaImIZZ8) [Slide](./HCMUT_Day13_DecisionTree.pdf)
+    - 49 [Video](https://youtu.be/KXMVZbZeQMI)
+      - Nothing new
+  - Clustering
+    - 50 [Video](https://youtu.be/lyQXnU_caYA)
+      - Intro
+      - Simple way to calc sse and update centroid (calc distance just once)
+    - 51 [Video](https://youtu.be/t6Y7bKPV9qU)
+      - Fitting
+      - Simple way to get all labels asigned (argmin(distance))
+      - Stopping criteria if cluster unchanged
+      - Prediction 
+      - Example, elbow, simple elbow example
+    - 52 [Video](https://youtu.be/bXmh_l9B_7o)
+      - Kmean and elbow on real data (should show dot on elbow method!)
+      - PCA shows that clusters are overlap and does not have real separation
+      - Can use hist plot for different groups in one attribute to show insight! (36:37)
+    - Lecture Day 14 [Video](https://youtu.be/VxEil9sv1KA) [Slide](./HCMUT_MEP_Day14_Clustering.pdf)
+    - 53 [Video](https://youtu.be/X1nchB3uV3g)
+      - Review
   - Ensemble
+    - 54 [Video](https://youtu.be/q3xi0ereWY4%EF%B8%8F)
     - 55 [Video](https://youtu.be/fWDLeBYY0hk)
       - Blending, Bagging
     - 56 [Video](https://youtu.be/jNaLBVMARrs)
       - Stacking (but a more simple version, not use depth!)
-    - Lecture 15 [Video](https://youtu.be/kddZVTU4Bxg) [Slide](./HCMUT_MEP_Day15_EnsembleLearning.pdf)
+    - Lecture Day 15 [Video](https://youtu.be/kddZVTU4Bxg) [Slide](./HCMUT_MEP_Day15_EnsembleLearning.pdf)
       - Slide, Theory
       - Important: Implementation of Stacking (depth recursive! hot!)
   
   -**TO REVIEW**
-  - Also Logistic Regression
-    - Lecture Day 11 [Video](https://youtu.be/pjo0l89mNa8) [Slide](./MEP_Day11_Scratch_LogisticRegression.pdf)
-      - Full theory
-      - Logit
-      - Regularization
-  - Decision Tree
-    - 46 [Video](https://youtu.be/AE7Zla5-2SI%EF%B8%8F)
-    - 47 [Video](https://youtu.be/t-JrWP0vK_g)
-    - 48 [Video](https://youtu.be/t3JtPXfRuqU)
-    - Lecture Day 13 [Video](https://youtu.be/jzdKaImIZZ8) [Slide](./HCMUT_Day13_DecisionTree.pdf)
-    - 49 [Video](https://youtu.be/KXMVZbZeQMI)
-  - Clustering
-    - 50 [Video](https://youtu.be/lyQXnU_caYA)
-    - 51 [Video](https://youtu.be/t6Y7bKPV9qU)
-    - 52 [Video](https://youtu.be/bXmh_l9B_7o)
-
-
+    - Recheck Ensemble
+    - Logistic + Deci Tree + Cluster Lecture!
     
   
   
