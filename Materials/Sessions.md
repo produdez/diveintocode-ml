@@ -197,12 +197,12 @@
     - 46 [Video](https://youtu.be/AE7Zla5-2SI%EF%B8%8F)
     - 47 [Video](https://youtu.be/t-JrWP0vK_g)
     - 48 [Video](https://youtu.be/t3JtPXfRuqU)
-    - Lecture Day 13 [Video] (https://youtu.be/jzdKaImIZZ8) [Slide](./HCMUT_Day13_DecisionTree.pdf)
+    - Lecture Day 13 [Video](https://youtu.be/jzdKaImIZZ8) [Slide](./HCMUT_Day13_DecisionTree.pdf)
     - 49 [Video](https://youtu.be/KXMVZbZeQMI)
   - Clustering
     - 50 [Video](https://youtu.be/lyQXnU_caYA)
     - 51 [Video](https://youtu.be/t6Y7bKPV9qU)
-    - 52 [Video] (https://youtu.be/bXmh_l9B_7o)
+    - 52 [Video](https://youtu.be/bXmh_l9B_7o)
 
 
     
