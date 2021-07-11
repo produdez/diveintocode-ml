@@ -3,3 +3,4 @@
 !.gitattributes
 # **/creditinfo_train.csv
 /Draft Folder/*
+**/__pycache__/**

@@ -224,6 +224,13 @@
   -**TO REVIEW**
     - Recheck Ensemble
     - Logistic + Deci Tree + Cluster Lecture!
+
+
+  - Convolutional neural network
+    - 66 [Video](https://youtu.be/lzdaAZmtUkM)
+      - Very simple explanation of conv network
+      - Conv, Activ, Pool, Classification
+      - More reading links provided (eureku, frecodecamp, datacamp)
     
   
   
