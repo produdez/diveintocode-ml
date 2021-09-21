@@ -231,6 +231,21 @@
       - Very simple explanation of conv network
       - Conv, Activ, Pool, Classification
       - More reading links provided (eureku, frecodecamp, datacamp)
-    
-  
+
+LECTURE 20: https://youtu.be/em8ziq5pLy0 (watched)
+LECTURE 21: https://youtu.be/bX2jWgYgxMY
+LEC 22: https://youtu.be/vfnUbnKm9no
+74. https://youtu.be/jhcsnSikgL8
+75. https://youtu.be/cQDftrietwA
+76. https://youtu.be/Q-EZ8mchdjI
+77. https://youtu.be/rwrueS0-EXc
+78. https://youtu.be/42d6-El87Os
+79. https://youtu.be/zMoDqzG-OcU
+80. https://youtu.be/CWHahePZFzs
+81. https://youtu.be/jg5fiEOQ-ag
+82. https://youtu.be/d4jPsAV69qE
+83. https://youtu.be/PeU7ErMgvBo
+84. https://youtu.be/xQZ4n-o2z10
+85. https://youtu.be/xQXONaFiJH0
+86. 
   
