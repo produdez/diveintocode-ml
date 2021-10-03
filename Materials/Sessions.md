@@ -235,6 +235,9 @@
 LECTURE 20: https://youtu.be/em8ziq5pLy0 (watched)
 LECTURE 21: https://youtu.be/bX2jWgYgxMY
 LEC 22: https://youtu.be/vfnUbnKm9no
+LEC 23: https://youtu.be/pvRICEbzgsw
+LEC 24: https://youtu.be/huC-XifVMy8
+
 74. https://youtu.be/jhcsnSikgL8
 75. https://youtu.be/cQDftrietwA
 76. https://youtu.be/Q-EZ8mchdjI
@@ -247,5 +250,13 @@ LEC 22: https://youtu.be/vfnUbnKm9no
 83. https://youtu.be/PeU7ErMgvBo
 84. https://youtu.be/xQZ4n-o2z10
 85. https://youtu.be/xQXONaFiJH0
-86. 
+86. https://youtu.be/QpDgNKOFyc4
+87. https://youtu.be/IcRyMQOAWpU
+88. https://youtu.be/U1IXssBNtwY
+89. https://youtu.be/etF0QQSkjeU
+90. https://youtu.be/S5KI0LhsxZ0
+91. https://youtu.be/3bkcJHBuuAE
+92. https://youtu.be/249N7MtYPN8
+93. https://youtu.be/78Ar6EaNIg4
+94. 
   
