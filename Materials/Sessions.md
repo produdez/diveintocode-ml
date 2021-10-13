@@ -235,7 +235,7 @@
 LECTURE 20: https://youtu.be/em8ziq5pLy0 (watched)
 LECTURE 21: https://youtu.be/bX2jWgYgxMY
 LEC 22: https://youtu.be/vfnUbnKm9no
-LEC 23: https://youtu.be/pvRICEbzgsw
+LEC 23: https://youtu.be/pvRICEbzgsw (watched)
 LEC 24: https://youtu.be/huC-XifVMy8
 LEC 25: https://youtu.be/5v2wNVlwcJg
 
