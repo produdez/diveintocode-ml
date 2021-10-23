@@ -238,6 +238,8 @@ LEC 22: https://youtu.be/vfnUbnKm9no
 LEC 23: https://youtu.be/pvRICEbzgsw (watched)
 LEC 24: https://youtu.be/huC-XifVMy8
 LEC 25: https://youtu.be/5v2wNVlwcJg
+LEC 26: https://youtu.be/H7_dJZCe2bw
+LEC 27: https://youtu.be/1G6sRx5A5m8
 
 74. https://youtu.be/jhcsnSikgL8
 75. https://youtu.be/cQDftrietwA
@@ -262,5 +264,13 @@ LEC 25: https://youtu.be/5v2wNVlwcJg
 94. https://www.youtube.com/watch?v=iJLm8I9iOMI
 95. https://youtu.be/gIVNa6jdCA8
 96. https://youtu.be/OurpidNed0E
-97. 
-  
+97. https://youtu.be/byjE3KKQDDU
+98. https://youtu.be/byjE3KKQDDU
+99. https://youtu.be/ucEKaDGDGA4
+100. https://youtu.be/2F-ybSqc9Ys
+101. https://youtu.be/HLSRbpT-pc8
+102. https://youtu.be/qK5wFlQ4Q-g
+103. https://youtu.be/iv1R4h5kbJk
+104. https://youtu.be/aeMBOxYSxIQ
+105. https://youtu.be/OkydkFq9k8A
+106. 
