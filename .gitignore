@@ -4,3 +4,9 @@
 # **/creditinfo_train.csv
 /Draft Folder/*
 **/__pycache__/**
+
+#binary checkpoint files
+**/*.hdf5
+
+# specials
+Week\ 25/data
