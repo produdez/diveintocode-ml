@@ -292,4 +292,10 @@ LEC 30: https://youtu.be/n8vWWOk1aMg
 118. https://youtu.be/fVDsXdRmiI0
 119. https://youtu.be/cPuxQQ5LjDM
 120. https://youtu.be/qxFSkpMsx6k
-121. 
+121. https://youtu.be/D6Qiw5M96HE
+122. https://youtu.be/IXjVbe1QRKk
+123. https://youtu.be/5tAYGv9fsew
+124. https://youtu.be/pMEdDxSPf00
+125. https://youtu.be/iuUCBu0RTT8
+126. https://youtu.be/HlQPuVf8jjU
+127. 
