@@ -239,7 +239,7 @@ LEC 23: https://youtu.be/pvRICEbzgsw (watched)
 LEC 24: https://youtu.be/huC-XifVMy8 (watched)
 LEC 25: https://youtu.be/5v2wNVlwcJg (watched)
 LEC 26: https://youtu.be/H7_dJZCe2bw (watched)
-LEC 27: https://youtu.be/1G6sRx5A5m8
+LEC 27: https://youtu.be/1G6sRx5A5m8 (watched)
 LEC 28: https://youtu.be/aokqx8KJxXQ
 LEC 29: https://youtu.be/eCF15LIDpdw
 LEC 30: https://youtu.be/n8vWWOk1aMg
