@@ -240,10 +240,10 @@ LEC 24: https://youtu.be/huC-XifVMy8 (watched)
 LEC 25: https://youtu.be/5v2wNVlwcJg (watched)
 LEC 26: https://youtu.be/H7_dJZCe2bw (watched)
 LEC 27: https://youtu.be/1G6sRx5A5m8 (watched)
-LEC 28: https://youtu.be/aokqx8KJxXQ
-LEC 29: https://youtu.be/eCF15LIDpdw
+LEC 28: https://youtu.be/aokqx8KJxXQ (watched)
+LEC 29: https://youtu.be/eCF15LIDpdw (watched)
 LEC 30: https://youtu.be/n8vWWOk1aMg
-
+LEC 31: https://youtu.be/AsRGFNFINyM
 
 74. https://youtu.be/jhcsnSikgL8
 75. https://youtu.be/cQDftrietwA
@@ -298,4 +298,5 @@ LEC 30: https://youtu.be/n8vWWOk1aMg
 124. https://youtu.be/pMEdDxSPf00
 125. https://youtu.be/iuUCBu0RTT8
 126. https://youtu.be/HlQPuVf8jjU
-127. 
+127. https://youtu.be/MxPYWVvR-Q8
+128. https://youtu.be/MxPYWVvR-Q8
